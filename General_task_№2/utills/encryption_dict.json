@@ -1,0 +1,32 @@
+{
+    "A": "1212abb", "B": "ad", "C": "vbn345", "D": "xyz678",
+    "E": "123eqr", "F": "890fgh", "G": "poi0ty", "H": "qwabc1",
+    "I": "dfghe2", "J": "456aks", "K": "zxcvw3", "L": "mnb22",
+    "M": "efg56", "N": "78nbc", "O": "hijk4", "P": "or890",
+    "Q": "nbvc5", "R": "ytser6", "S": "vc123", "T": "gh78",
+    "U": "pqws7", "V": "zxc14", "W": "tyui9", "X": "asqw35",
+    "Y": "dert2", "Z": "qwert8",
+    
+    "a": "2dff4", "b": "fa25gf", "c": "1rs351", "d": "14fs3f",
+    "e": "7jgvw34", "f": "7gs3gd3", "g": "2fas3542", "h": "45dw24",
+    "i": "967nd", "j": "3fa37h", "k": "asf1fw1", "l": "65ser2",
+    "m": "1nak64", "n": "6jsl7", "o": "5gd35", "p": "34ts2f",
+    "q": "47jdz", "r": "1d5gnn7", "s": "2vsf52", "t": "34sf33",
+    "u": "126asv45", "v": "zex33ggg7", "w": "4ssffs4", "x": "fs5juo",
+    "y": "der91ghy", "z": "552gvc",
+
+    "0": "zero1", "1": "one1", "2": "two1", "3": "three1",
+    "4": "four4", "5": "five5", "6": "six6", "7": "seven7",
+    "8": "eight8", "9": "nine9",
+    
+    " ": "space0", "!": "lk765i", "\"": "quote2", "#": "hash3",
+    "$": "dollar4", "%": "percent5", "&": "and6", "'": "quote1",
+    "(": "leftpar7", ")": "rightpar8", "*": "star9", "+": "plus10",
+    ",": "comma11", "-": "dash12", ".": "dot13", "/": "slash14",
+    ":": "colon15", ";": "semicolon16", "<": "lessthan17",
+    "=": "equal18", ">": "greaterthan19", "?": "port489",
+    "@": "atmark20", "[": "leftbracket21", "\\": "backslash22",
+    "]": "rightbracket23", "^": "caret24", "_": "underscore25",
+    "`": "backtick26", "{": "leftcurly27", "|": "pipe28",
+    "}": "rightcurly29", "~": "tilde30"
+}
